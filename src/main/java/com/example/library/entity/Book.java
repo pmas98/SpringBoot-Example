@@ -24,4 +24,7 @@ public class Book {
 
     @Column(nullable = false)
     private Integer availableCopies;
+
+    @Column(nullable = false)
+    private String isbn;
 } 

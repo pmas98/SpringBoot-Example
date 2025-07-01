@@ -1,0 +1,25 @@
+# Java and Maven
+/target/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# VS Code workspace settings
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker artifacts
+*.pid
+
+# Database files
+*.h2.db 
